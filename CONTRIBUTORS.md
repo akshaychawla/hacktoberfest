@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Akshay Chawla](https://github.com/akshaychawla)
+- Place: Bangalore, Karnataka, India
+- Bio: Machine Learning Engineer 
+- GitHub: [akshaychawla](https://github.com/akshaychawla)
